@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: IsGrounded
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[{"_type":"System.Boolean","key":"Is
+      Grounded","label":null,"summary":null,"hideLabel":false}],"title":"Is Grounded","summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":-599.0,"y":-55.0},"guid":"63ce4c1c-1d40-4c68-b86a-bfe541ae21a3","$version":"A","$type":"Unity.VisualScripting.GraphInput"},{"defaultValues":{},"position":{"x":481.0,"y":-57.0},"guid":"18fcfe78-556e-4f4b-a847-c0ed825c4a67","$version":"A","$type":"Unity.VisualScripting.GraphOutput","$id":"12"},{"chainable":false,"member":{"name":"OverlapBox","parameterTypes":["UnityEngine.Vector3","UnityEngine.Vector3"],"targetType":"UnityEngine.Physics","targetTypeName":"UnityEngine.Physics","$version":"A"},"defaultValues":{"%center":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"%halfExtents":{"x":1.1,"y":1.1,"z":1.1,"$type":"UnityEngine.Vector3"}},"position":{"x":-173.0,"y":-28.0},"guid":"8456ee94-c93a-4367-a1ba-b4faf8f9c178","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"14"},{"member":{"name":"position","parameterTypes":null,"targetType":"UnityEngine.Transform","targetTypeName":"UnityEngine.Transform","$version":"A"},"defaultValues":{"target":null},"position":{"x":-399.0,"y":66.0},"guid":"9f1c65e9-cdfd-4644-96f9-f9f47a828b41","$version":"A","$type":"Unity.VisualScripting.GetMember","$id":"17"},{"defaultValues":{},"position":{"x":77.0,"y":19.0},"guid":"ba1bd0a1-e402-403d-b8d9-2e12eb982e35","$version":"A","$type":"Unity.VisualScripting.CountItems","$id":"20"},{"numeric":true,"defaultValues":{"b":{"$content":2.0,"$type":"System.Single"}},"position":{"x":282.0,"y":-8.0},"guid":"020d7b9e-20c8-4d5d-8882-57c3488cde12","$version":"A","$type":"Unity.VisualScripting.Greater","$id":"22"},{"coroutine":false,"defaultValues":{},"position":{"x":-388.0,"y":-170.0},"guid":"eb6050e9-82ca-49ba-9406-16c128b7eac9","$version":"A","$type":"Unity.VisualScripting.FixedUpdate","$id":"24"},{"sourceUnit":{"$ref":"24"},"sourceKey":"trigger","destinationUnit":{"$ref":"14"},"destinationKey":"enter","guid":"b6203e77-d9be-49cf-b11f-24ccf79d0968","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"value","destinationUnit":{"$ref":"14"},"destinationKey":"%center","guid":"3a46975c-d8b0-4b63-a154-3b1331cc6dc0","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"result","destinationUnit":{"$ref":"20"},"destinationKey":"collection","guid":"e4b511f9-ba6c-4c46-ade0-ff712abb6723","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"20"},"sourceKey":"count","destinationUnit":{"$ref":"22"},"destinationKey":"a","guid":"d37efbd3-91db-4373-a17f-8b7866e11cf7","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"22"},"sourceKey":"comparison","destinationUnit":{"$ref":"12"},"destinationKey":"Is
+      Grounded","guid":"5e6fa887-9592-49e3-b329-2dd6f209f971","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
