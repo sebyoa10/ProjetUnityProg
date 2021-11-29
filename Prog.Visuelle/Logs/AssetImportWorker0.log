@@ -1,97 +1,105 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.6f1 (c0fade0cc7e9) revision 12647134'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19043.1348; Version 2009; 64bit' Language: 'fr' Physical Memory: 16256 MB
+OS: 'Windows 10 Home; OS build 19043.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 16146 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity 2021.1.6f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2021.1.6f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/Unity/Prog Visuelle/ProjetUnityProg/Prog.Visuelle
+C:/Users/seb_l/OneDrive/Documents/GitHub/ProjetUnityProg/Prog.Visuelle
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64754
-Successfully changed project path to: D:/Unity/Prog Visuelle/ProjetUnityProg/Prog.Visuelle
-D:/Unity/Prog Visuelle/ProjetUnityProg/Prog.Visuelle
+50428
+Successfully changed project path to: C:/Users/seb_l/OneDrive/Documents/GitHub/ProjetUnityProg/Prog.Visuelle
+C:/Users/seb_l/OneDrive/Documents/GitHub/ProjetUnityProg/Prog.Visuelle
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 65.11 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 97.46 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.6f1 (c0fade0cc7e9)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.6f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Unity/Prog Visuelle/ProjetUnityProg/Prog.Visuelle/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/seb_l/OneDrive/Documents/GitHub/ProjetUnityProg/Prog.Visuelle/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 2070 with Max-Q Design (ID=0x1f14)
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f14)
     Vendor:   NVIDIA
     VRAM:     8031 MB
-    Driver:   27.21.14.6275
+    Driver:   30.0.14.9676
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56168
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56480
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity 2021.1.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Program Files/Unity 2021.1.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001953 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001930 seconds.
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 69.07 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 84.03 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.090 seconds
+- Completed reload, in  1.446 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002061 seconds.
+Registered in 0.003113 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.929 seconds
+- Completed reload, in  1.096 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 99.1 MB.
 System memory in use after: 99.2 MB.
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3120.
-Total: 1.798900 ms (FindLiveObjects: 0.242600 ms CreateObjectMapping: 0.161400 ms MarkObjects: 1.338100 ms  DeleteObjects: 0.055900 ms)
+Total: 1.901700 ms (FindLiveObjects: 0.211400 ms CreateObjectMapping: 0.142300 ms MarkObjects: 1.485000 ms  DeleteObjects: 0.062100 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/movingPlateform.asset
   artifactKey: Guid(53debbb62d056c84681097e052af19f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/movingPlateform.asset using Guid(53debbb62d056c84681097e052af19f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31b7bfc67755c295ace3e5d3a635f55') in 0.445223 seconds 
+Start importing Assets/movingPlateform.asset using Guid(53debbb62d056c84681097e052af19f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbbaea0eefba34664a934292847c7c19') in 0.676635 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000207 seconds.
+  Time since last request: 0.000226 seconds.
   path: Assets/trap.asset
   artifactKey: Guid(8279c5916ae4d9b4d8e0c30e56d8d2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/trap.asset using Guid(8279c5916ae4d9b4d8e0c30e56d8d2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f363fc97330bd22227f2feb6712cf4') in 0.029710 seconds 
+Start importing Assets/trap.asset using Guid(8279c5916ae4d9b4d8e0c30e56d8d2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce80cdcf7ba9ca9d0283f1191216bbc') in 0.033232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2982.716047 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(f4adbcf08cd37674fb4b55ca07783f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(f4adbcf08cd37674fb4b55ca07783f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4775bf202731d3293d6d3915c964c401') in 0.008864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.907253 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd633e170234f181e9ad5555a7b8a294') in 0.008254 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001734 seconds.
+Registered in 0.003269 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.747 seconds
+- Completed reload, in  1.134 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -100,327 +108,26 @@ System memory in use before: 99.1 MB.
 System memory in use after: 99.3 MB.
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3123.
-Total: 1.763300 ms (FindLiveObjects: 0.200300 ms CreateObjectMapping: 0.129300 ms MarkObjects: 1.396000 ms  DeleteObjects: 0.037000 ms)
+Total: 2.240900 ms (FindLiveObjects: 0.363600 ms CreateObjectMapping: 0.157800 ms MarkObjects: 1.637400 ms  DeleteObjects: 0.081000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002117 seconds.
+Registered in 0.003270 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.771 seconds
+- Completed reload, in  1.273 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 99.1 MB.
 System memory in use after: 99.3 MB.
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3126.
-Total: 2.659300 ms (FindLiveObjects: 0.389400 ms CreateObjectMapping: 0.294000 ms MarkObjects: 1.912600 ms  DeleteObjects: 0.062300 ms)
+Total: 1.933300 ms (FindLiveObjects: 0.207200 ms CreateObjectMapping: 0.134400 ms MarkObjects: 1.549600 ms  DeleteObjects: 0.041100 ms)
 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001921 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.731 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 99.1 MB.
-System memory in use after: 99.3 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3129.
-Total: 3.421900 ms (FindLiveObjects: 0.241000 ms CreateObjectMapping: 0.153300 ms MarkObjects: 2.884600 ms  DeleteObjects: 0.141100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 1022.374677 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(f4adbcf08cd37674fb4b55ca07783f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(f4adbcf08cd37674fb4b55ca07783f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3a8e1937465a19c99841c62ebfc49b3') in 0.016884 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.128794 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9f1601e93b6d35345e7048d2db0c7a') in 0.022999 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 21.161597 seconds.
-  path: Assets/Scenes/Menu.unity
-  artifactKey: Guid(f9edeba8c08baae4782d40fea60d1034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Menu.unity using Guid(f9edeba8c08baae4782d40fea60d1034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e683b7937451dff1af35a18c9e3fe1') in 0.013925 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 299.946129 seconds.
-  path: Assets/Scenes/Menu.unity
-  artifactKey: Guid(f9edeba8c08baae4782d40fea60d1034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Menu.unity using Guid(f9edeba8c08baae4782d40fea60d1034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c370acfbc97434e5db34e395c7888ef') in 0.011093 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 115.371529 seconds.
-  path: Assets/Bolt Scripts
-  artifactKey: Guid(73d78ffff22e113418b719d3eb206498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts using Guid(73d78ffff22e113418b719d3eb206498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '108fb6ef8b1806846b4493903f6903f8') in 0.012834 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.054387 seconds.
-  path: Assets/Bolt Scripts/CameraFollow.asset
-  artifactKey: Guid(160e17e43df10134ab1604f0be8d3351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/CameraFollow.asset using Guid(160e17e43df10134ab1604f0be8d3351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60999c206b4ee1bfd6e641dd0a472c1') in 0.422207 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000115 seconds.
-  path: Assets/Bolt Scripts/Hero_Controller.asset
-  artifactKey: Guid(5c93f249dafd84d4abfd30cbc00641a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/Hero_Controller.asset using Guid(5c93f249dafd84d4abfd30cbc00641a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e16297b2279d2d3b217d7739f27b237') in 0.145688 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/Bolt Scripts/IsGrounded.asset
-  artifactKey: Guid(c8d253b16b6a7664c8066ec71464f570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/IsGrounded.asset using Guid(c8d253b16b6a7664c8066ec71464f570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3da701d13ce3fcf091f8090f52f756') in 0.015540 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000636 seconds.
-  path: Assets/Bolt Scripts/Move.asset
-  artifactKey: Guid(ad9b2faa7e037934db6946ed50f2ecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/Move.asset using Guid(ad9b2faa7e037934db6946ed50f2ecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662b459cc4d992d87ad596ef2bf9e7fc') in 0.015584 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/Bolt Scripts/MoveAnimation.asset
-  artifactKey: Guid(da2d27f7100aac54481c5a40a922cd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/MoveAnimation.asset using Guid(da2d27f7100aac54481c5a40a922cd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '439d2fa19c126c83aaa7b140291c217e') in 0.015930 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/Bolt Scripts/FallAnimation.asset
-  artifactKey: Guid(c11ce0d4a4bd5414aa1c1ca306dd7c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/FallAnimation.asset using Guid(c11ce0d4a4bd5414aa1c1ca306dd7c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Could not load connection between 'Is Grounded' of 'SuperUnit#b5d88...' and '%value' of 'InvokeMember#6ebd9...'.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogWarning (object)
-Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ValueOutput, Unity.VisualScripting.ValueInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
-Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
-Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:306)
-Unity.VisualScripting.Serialization:AwaitDependencies (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:246)
-Unity.VisualScripting.Graph:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Graphs/Graph.cs:93)
-Unity.VisualScripting.FullSerializer.fsSerializationCallbackReceiverProcessor:OnAfterDeserialize (System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsISerializationCallbacks.cs:127)
-Unity.VisualScripting.FullSerializer.fsSerializer:Invoke_OnAfterDeserialize (System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>,System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:1186)
-Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:673)
-Unity.VisualScripting.FullSerializer.fsReflectedConverter:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,object&,System.Type) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Converters/fsReflectedConverter.cs:97)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_5_Converter (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:897)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_4_Cycles (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:887)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_3_Inheritance (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:862)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_2_Version (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:766)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_1_CycleReference (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:711)
-Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:664)
-Unity.VisualScripting.Serialization:DeserializeJsonUtil (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:172)
-Unity.VisualScripting.Serialization:DeserializeJson (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:186)
-Unity.VisualScripting.Serialization:DeserializeInto (Unity.VisualScripting.SerializationData,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:116)
-Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:50)
-
-(Filename: Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
-
- -> (artifact id: '54b911b46291bc3d7aa7a3194a3c4423') in 0.021428 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Bolt Scripts/FaceFoward.asset
-  artifactKey: Guid(3f1edd70542a41e4eb113fac424c680d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/FaceFoward.asset using Guid(3f1edd70542a41e4eb113fac424c680d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30b644bd3ca1218a084fdb1a4ab0e66c') in 0.015255 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Bolt Scripts/Jump.asset
-  artifactKey: Guid(0e89973ccc3694247a8134a8f1c17671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/Jump.asset using Guid(0e89973ccc3694247a8134a8f1c17671) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Could not load connection between 'Is Grounded' of 'SuperUnit#dfafc...' and 'condition' of 'If#9c80b...'.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogWarning (object)
-Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ValueOutput, Unity.VisualScripting.ValueInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
-Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
-Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:306)
-Unity.VisualScripting.Serialization:AwaitDependencies (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:246)
-Unity.VisualScripting.Graph:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Graphs/Graph.cs:93)
-Unity.VisualScripting.FullSerializer.fsSerializationCallbackReceiverProcessor:OnAfterDeserialize (System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsISerializationCallbacks.cs:127)
-Unity.VisualScripting.FullSerializer.fsSerializer:Invoke_OnAfterDeserialize (System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>,System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:1186)
-Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:673)
-Unity.VisualScripting.FullSerializer.fsReflectedConverter:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,object&,System.Type) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Converters/fsReflectedConverter.cs:97)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_5_Converter (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:897)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_4_Cycles (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:887)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_3_Inheritance (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:862)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_2_Version (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:766)
-Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_1_CycleReference (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:711)
-Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:664)
-Unity.VisualScripting.Serialization:DeserializeJsonUtil (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:172)
-Unity.VisualScripting.Serialization:DeserializeJson (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:186)
-Unity.VisualScripting.Serialization:DeserializeInto (Unity.VisualScripting.SerializationData,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Serialization/Serialization.cs:116)
-Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:50)
-
-(Filename: Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
-
- -> (artifact id: '4491a143d7180142523f15a8e25d9f29') in 0.020629 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 42.075277 seconds.
-  path: Assets/Bolt Scripts/New State Graph.asset
-  artifactKey: Guid(1f693ddb4615ad4489ada6f040f66a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/New State Graph.asset using Guid(1f693ddb4615ad4489ada6f040f66a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76869548032171fb9440b67df809a61') in 0.016378 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 10.487606 seconds.
-  path: Assets/Bolt Scripts/New Script Graph.asset
-  artifactKey: Guid(bc8499e9cb3e3e8449500b5eada98be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/New Script Graph.asset using Guid(bc8499e9cb3e3e8449500b5eada98be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e92f04ae19fa0bfbe44e1790b8cb740') in 0.012829 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.129179 seconds.
-  path: Assets/Bolt Scripts/Start_UI.asset
-  artifactKey: Guid(bc8499e9cb3e3e8449500b5eada98be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/Start_UI.asset using Guid(bc8499e9cb3e3e8449500b5eada98be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6b375d820ba7e7a438c9f8bc4a0189') in 0.013663 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002072 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.762 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 99.4 MB.
-System memory in use after: 99.6 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3132.
-Total: 2.040800 ms (FindLiveObjects: 0.220100 ms CreateObjectMapping: 0.121400 ms MarkObjects: 1.660000 ms  DeleteObjects: 0.038600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 185.617091 seconds.
-  path: Assets/Bolt Scripts/Quit_UI.asset
-  artifactKey: Guid(f782d7daea7ce554e9c88616cc534877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/Quit_UI.asset using Guid(f782d7daea7ce554e9c88616cc534877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0491e16e26b00b7b30bdc8a4e8de8891') in 0.076860 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 80.217636 seconds.
-  path: Assets/Bolt Scripts/Quit_UI.asset
-  artifactKey: Guid(f782d7daea7ce554e9c88616cc534877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/Quit_UI.asset using Guid(f782d7daea7ce554e9c88616cc534877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c31d5169b3f07fd3227a2e3155cf02') in 0.284910 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000112 seconds.
-  path: Assets/Bolt Scripts/Start_UI.asset
-  artifactKey: Guid(bc8499e9cb3e3e8449500b5eada98be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bolt Scripts/Start_UI.asset using Guid(bc8499e9cb3e3e8449500b5eada98be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8697b3fd3444852af34d78eda564c0e1') in 0.028475 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 843.390898 seconds.
-  path: Assets/Art
-  artifactKey: Guid(cf443160d6d87df4f9546d0777e3f967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art using Guid(cf443160d6d87df4f9546d0777e3f967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ead787cf226d40ef4e8ad3aaf966eafe') in 0.012421 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.041306 seconds.
-  path: Assets/Art/Coin.prefab
-  artifactKey: Guid(3e7fcf601ba6f3244a18333a7d387a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Coin.prefab using Guid(3e7fcf601ba6f3244a18333a7d387a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4917ddff5b1caad4f6b98c447f5e31c6') in 0.079615 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000098 seconds.
-  path: Assets/Art/Spike.prefab
-  artifactKey: Guid(444547d5e3a323545ab9e707fec62599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Spike.prefab using Guid(444547d5e3a323545ab9e707fec62599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c596f5bfb399c1610686ff000fdc7eb') in 0.072966 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000097 seconds.
-  path: Assets/Art/New Material.mat
-  artifactKey: Guid(386ac56f4ff03884b8302692dcdd546d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/New Material.mat using Guid(386ac56f4ff03884b8302692dcdd546d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bfb51dea7ac80674697e83797bda48e') in 0.049359 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/Art/spikeMat.mat
-  artifactKey: Guid(fa7f72fac9103904faabbdecc1ef6921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/spikeMat.mat using Guid(fa7f72fac9103904faabbdecc1ef6921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75040165f9e73084ecb482f89bc3eb55') in 0.028568 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.868365 seconds.
-  path: Assets/Art/Characters
-  artifactKey: Guid(75f680bda639622409164810e84b91f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters using Guid(75f680bda639622409164810e84b91f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6313ece84ea7a1dc5e37dc0af1da64fd') in 0.011075 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.846559 seconds.
-  path: Assets/Art/Characters/Hero
-  artifactKey: Guid(9c0a5a10530c54245b7061b32c6ffc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters/Hero using Guid(9c0a5a10530c54245b7061b32c6ffc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '987b5dc958c83fd7fd1f7e4c4dc14450') in 0.010982 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.061441 seconds.
-  path: Assets/Art/Characters/Hero/kachujin_g_rosales (1).fbx
-  artifactKey: Guid(90023618f9b459e48be044447b272bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters/Hero/kachujin_g_rosales (1).fbx using Guid(90023618f9b459e48be044447b272bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f7fdd36fbddc85804953167217495b') in 0.086032 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.430379 seconds.
-  path: Assets/Art/Characters/Hero/Animation
-  artifactKey: Guid(0959dc014067c4e4ca6fc08abb00851b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters/Hero/Animation using Guid(0959dc014067c4e4ca6fc08abb00851b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a282b741226ef1dcc804c2ee909f89') in 0.013282 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.075693 seconds.
-  path: Assets/Art/Characters/Hero/Animation/Fall A Loop.fbx
-  artifactKey: Guid(9a43fba003438d94b90b16ac93459903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters/Hero/Animation/Fall A Loop.fbx using Guid(9a43fba003438d94b90b16ac93459903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc71a4f69170a4f750e485e837b090e') in 0.037488 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/Art/Characters/Hero/Animation/Jumping Down.fbx
-  artifactKey: Guid(d887ae2fc53dc2442b5ecfafe74abd61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters/Hero/Animation/Jumping Down.fbx using Guid(d887ae2fc53dc2442b5ecfafe74abd61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69eedae16f78c57f4f7bdd9f2efdfe4') in 0.049034 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000095 seconds.
-  path: Assets/Art/Characters/Hero/Animation/Standing Idle.fbx
-  artifactKey: Guid(c80f97a531a3afd40a16f0c8ded5c289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters/Hero/Animation/Standing Idle.fbx using Guid(c80f97a531a3afd40a16f0c8ded5c289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6829251356cfd84448fe3f15966acc') in 0.061146 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/Art/Characters/Hero/Animation/Jumping Up (1).fbx
-  artifactKey: Guid(410349f18ae4f2c4eaa5e9d4f67929ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters/Hero/Animation/Jumping Up (1).fbx using Guid(410349f18ae4f2c4eaa5e9d4f67929ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31962e9ccfec568e70e2d425da7f2816') in 0.045176 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000103 seconds.
-  path: Assets/Art/Characters/Hero/Animation/Running.fbx
-  artifactKey: Guid(ba9d968578204b04a82a88520054aaf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters/Hero/Animation/Running.fbx using Guid(ba9d968578204b04a82a88520054aaf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6b98e189682757190af31ca35e964e') in 0.045756 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.849685 seconds.
-  path: Assets/Art/Characters/Hero/Animation/HeroAC.controller
-  artifactKey: Guid(72218b255bde1c249a5c7508817aac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Art/Characters/Hero/Animation/HeroAC.controller using Guid(72218b255bde1c249a5c7508817aac98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d4264215b8fe70771195889b2c7ce4') in 0.015944 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
